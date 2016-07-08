@@ -1,7 +1,10 @@
 # time_log
 
 - 20160708
-    - Re-base the building process towards `Cent OS`, deploying the Virtual Machine for build
+    - Completing the process of performing local on `Cent OS`, meeting no fatal errors.
+    - Preparing For re-define the build_steps for more detailed and professional.
+    - Changing the flowchart to meet the need of build the system.
+    - Re-basing the building process towards `Cent OS`, deploying the Virtual Machine for build
     - Fatal error on `libtinfo.so.5`, fallback to debug
 - 20160707
     - Comleting the build of the temporary system.

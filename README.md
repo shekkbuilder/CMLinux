@@ -1,9 +1,9 @@
 # CMLinux
-DIY a really tiny Linux from Sctrach
+DIY an any scale, full customizable Linux from Sctrach.
 
-![flowchart](/resources/flowchart_0.5.20160706 .png)
+![flowchart](/resources/flowchart_0.7.2016070 .png)
 
-Build a Linux from **zero** to **hero**, I will follow the oringinal book of [Linux-From-Sctrach](http://www.linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-7.9-NOCHUNKS.html) version 7.9 to build a tiny but strong Linux, and I shall call it as CMLinux.
+Build a Linux from **zero** to **hero**, I will follow the lead of Linux-From-Sctrachs version 7.9 to build a tiny but strong Linux, and I shall call it as CMLinux.
 
 > 
 Our Goal is to make a Linux-From-Sctrach with basic tools and keeps it with high perfermance for ***VM*** usage.
@@ -15,12 +15,12 @@ Bash, Bc, Binutils, Coreutils, Diffutils, File, Findutils, Gawk, Grep, GTK+2, Gz
 So join us, and you will learn and build your Linux for your *VM*
 
 # Project Progress
-- 20160707  
-    - Comleting the build of the temporary system.
-    - Some bugs shall be repaired
+- 20160708  
+    - Re-basing the building process towards `Cent OS`, deploying the Virtual Machine for build.
+    - Changing the flowchart to meet the need of build the system.
 
 # Steps
-- Form all scripts for installing and integrating a tiny and strong Linux in ***localhost*** starting with the localhost Linux.
+- Form all scripts for installing and integrating a tiny and strong Linux in ***localhost*** starting with the localhost Linux. Package them into a workable `toolchain`.
 
 > The standards we shall follow as closely as possible:
 >> 
@@ -33,7 +33,10 @@ Linux Standard Base (LSB) Version 5.0
 - Package the local tiny Linux into a Distribution and optimize it for ***VM*** usages.
 - Integrate and test it with other popular open source tools like MariaDB/Apache to form an avaliable Linux for usage or teaching.
 
+![inside_program](/resources/inside_program.png)
+
 # Need Your Help
+- Preparing For re-define the build_steps for more detailed and professional.
 - You may fork it and create your Linux as your favor.
 - Any Problems and questions, **please create an issue**, and we may discuss it and solve it.
 
