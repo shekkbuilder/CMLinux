@@ -1,6 +1,7 @@
 # time_log
 
 - 20160708
+    - Debugging
     - Completing the process of performing local on `Cent OS`, meeting no fatal errors.
     - Preparing For re-define the build_steps for more detailed and professional.
     - Changing the flowchart to meet the need of build the system.

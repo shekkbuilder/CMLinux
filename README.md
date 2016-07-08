@@ -33,7 +33,6 @@ Linux Standard Base (LSB) Version 5.0
 - Package the local tiny Linux into a Distribution and optimize it for ***VM*** usages.
 - Integrate and test it with other popular open source tools like MariaDB/Apache to form an avaliable Linux for usage or teaching.
 
-![inside_program](/resources/inside_program.svg)
 
 # Need Your Help
 - Preparing For re-define the build_steps for more detailed and professional.
