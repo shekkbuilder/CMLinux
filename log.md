@@ -1,6 +1,7 @@
 # time_log
 
 - 20160709
+    - A problem of Permission has been found in `v0.8-TC`, on repairing on reconfiguring.
     - Upload and Release v0.8-TC
     - Packaging the `v0.8-TC` release of all tools, and preparing for releasing notes.
     - Preparing the releasing of the basis of `Tool Chain`
