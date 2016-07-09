@@ -1,5 +1,5 @@
 # 02 - createTemporary.md
-***The full Tool Chain has been released as the v0.8-TC***
+***The full Tool Chain has been released as the v0.8-re-TC***
 
 - This step is to build a minimal Linux system.This system will contain **just enough tools** to start constructing
 the final LFS system and allow a working environment with more user convenience than a minimum

@@ -1,7 +1,7 @@
 # CMLinux
 DIY an any scale, full customizable Linux from Sctrach.
 
-***CMLinux v0.8-TC has just Released which may give you the Full Tool Chain to Customize Linux, see the releases to have a quick start, sorry to tell, there has been some Permission problems on 0.8-TC, I will fix it and make another TC version quickly***
+***CMLinux v0.8-re-TC has just Released which may give you the Full Tool Chain to Customize Linux, see the releases to have a quick start.***
 
 ![flowchart](/resources/flowchart_0.7.2016070 .png)
 
@@ -17,9 +17,8 @@ Bash, Bc, Binutils, Coreutils, Diffutils, File, Findutils, Gawk, Grep, GTK+2, Gz
 So join us, and you will learn and build your Linux for your *VM*
 
 # Project Progress
-- 20160708  
-    - Re-basing the building process towards `Cent OS`, deploying the Virtual Machine for build.
-    - Changing the flowchart to meet the need of build the system.
+- 20160709
+    - Release the version 0.8-re-TC with the full Tool Chain for building your Linux.
 
 # Steps
 - Form all scripts for installing and integrating a tiny and strong Linux in ***localhost*** starting with the localhost Linux. Package them into a workable `toolchain`.

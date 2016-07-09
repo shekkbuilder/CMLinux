@@ -1,6 +1,7 @@
 # time_log
 
 - 20160709
+    - Fix Problems of `v0.8-TC` to form `v0.8-re-TC`
     - A problem of Permission has been found in `v0.8-TC`, on repairing on reconfiguring.
     - Upload and Release v0.8-TC
     - Packaging the `v0.8-TC` release of all tools, and preparing for releasing notes.
