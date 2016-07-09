@@ -6,7 +6,7 @@
 ## CMLinux
 Release 0.8 - The full Tool Chain for developing and customizing a Linux upon your favour.
 
-### Temporary Link
+### Temporary Link for the Tarball
 http://oa1l4je6e.bkt.clouddn.com/CMLinux.build.tools.0.8.tar.bz2
 
 - NOT A full OS 
