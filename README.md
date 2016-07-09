@@ -36,9 +36,9 @@ Linux Standard Base (LSB) Version 5.0
 
 
 # Need Your Help
-- Preparing For re-define the build_steps for more detailed and professional.
+- Preparing for re-define the build_steps for more detailed and professional.
 - You may fork it and create your Linux as your favor.
-- Any Problems and questions, **please create an issue**, and we may discuss it and solve it.
+- Any problems and questions, **please create an issue**, and we may discuss it and solve it.
 
 # Requirements for Partcipators
 > 
@@ -64,7 +64,7 @@ No MORE requirements, and we will learn more from it.  -- from Linux with LOVE.
 
 # *Enjoy Yourself*
 
-Cherry Mill - My Original building process of CMLinux is performed on `Ubuntu Kylin` with `VS Code` and `bash`. With some bugs and failures, I choose a VM in `Cent OS 7` to cintinue the process.
+Cherry Mill - My Original building process of CMLinux is performed on `Ubuntu Kylin` with `VS Code` and `bash`. With some bugs and failures, I choose a VM in `Cent OS 7` to continue the process.
 
 ![build_env_sample](/resources/build_env_sample.png)
 
