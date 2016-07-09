@@ -1,6 +1,8 @@
 # CMLinux
 DIY an any scale, full customizable Linux from Sctrach.
 
+***CMLinux v0.8-TC has just Released which may give you the Full Tool Chain to Customize Linux, see the releases to have a quick start***
+
 ![flowchart](/resources/flowchart_0.7.2016070 .png)
 
 Build a Linux from **zero** to **hero**, I will follow the lead of Linux-From-Sctrachs version 7.9 to build a tiny but strong Linux, and I shall call it as CMLinux.

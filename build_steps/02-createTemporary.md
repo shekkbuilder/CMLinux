@@ -1,4 +1,6 @@
 # 02 - createTemporary.md
+***The full Tool Chain has been released as the v0.8-TC***
+
 - This step is to build a minimal Linux system.This system will contain **just enough tools** to start constructing
 the final LFS system and allow a working environment with more user convenience than a minimum
 environment would.
@@ -569,7 +571,7 @@ The Bzip2 package does not contain a `configure` script. Compile and build it di
     make
     make PREFIX=/tools install
 ```
-## coreutils-8.25.tar.xz
+## coreutils-8.25
 The coreutils package contains utilities for showing and setting the basic system characteristics.
 
 | Package       | Version       | Package Name
@@ -670,7 +672,7 @@ Prepare gettext for compilation, then build/ copy the necessary files:
 ---
 ***A dependency problem which is wrong in the original book, you need install gperf first***
 
-## gperf-3.0.4.tar.gz
+## gperf-3.0.4
 
 gperf generates a perfect hash function from a key set.
 

@@ -1,6 +1,8 @@
 # time_log
 
 - 20160709
+    - Upload and Release v0.8-TC
+    - Packaging the `v0.8-TC` release of all tools, and preparing for releasing notes.
     - Preparing the releasing of the basis of `Tool Chain`
 - 20160708
     - Debugging for the `glibc`
