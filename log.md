@@ -1,7 +1,9 @@
 # time_log
 
+- 20160709
+    - Preparing the releasing of the basis of `Tool Chain`
 - 20160708
-    - Debugging
+    - Debugging for the `glibc`
     - Completing the process of performing local on `Cent OS`, meeting no fatal errors.
     - Preparing For re-define the build_steps for more detailed and professional.
     - Changing the flowchart to meet the need of build the system.
