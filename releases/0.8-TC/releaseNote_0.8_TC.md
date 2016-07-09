@@ -1,6 +1,6 @@
 # releaseNote_0.8_TC
 
-![CMLinux_0.8_TC_structure](/resources/CMLinux_0.8_TC_structure)
+![CMLinux_0.8_TC_structure](/resources/CMLinux_0.8_TC_structure.png)
 
 
 ## CMLinux
