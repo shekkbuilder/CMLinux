@@ -65,9 +65,9 @@ No MORE requirements, and we will learn more from it.  -- from Linux with LOVE.
 
 # *Enjoy Yourself*
 
-Cherry Mill - My Original building process of CMLinux is performed on `Ubuntu Kylin` with `VS Code` and `bash`. With some bugs and failures, I choose a VM in `Cent OS 7` to continue the process.
+Cherry Mill - I am working hard to Re-factor the whole system to meet the need of the VM-BIOS.
 
-![build_env_sample](/resources/build_env_sample.png)
+![build_env_sample](resources/refactoring_0710.png)
 
 ---
-README.md - 0.6.20160708
+README.md - 0.6.20160710
