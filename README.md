@@ -1,5 +1,5 @@
 # CMLinux
-DIY an any scale, full customizable Linux from Sctrach.
+DIY an any scale, full customizable Linux from Scratch.
 
 ***CMLinux v0.8-re-TC has just Released which may give you the Full Tool Chain to Customize Linux, see the releases to have a quick start.***
 
