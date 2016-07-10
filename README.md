@@ -1,5 +1,5 @@
 # CMLinux
-DIY an any scale, full customizable Linux from Scratch.
+DIY an any scale, full customizable Linux-From-Scratch, to clear myself, it is really a ***Linux From Scratch***, but with my care and love.
 
 ***CMLinux v0.8-re-TC has just Released which may give you the Full Tool Chain to Customize Linux, see the releases to have a quick start.***
 
@@ -17,7 +17,8 @@ Bash, Bc, Binutils, Coreutils, Diffutils, File, Findutils, Gawk, Grep, GTK+2, Gz
 So join us, and you will learn and build your Linux for your *VM*
 
 # Project Progress
-- 20160709
+- 20160710
+    - Refactoring on a new `Cent OS` based VM
     - Release the version 0.8-re-TC with the full Tool Chain for building your Linux.
 
 # Steps

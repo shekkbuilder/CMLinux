@@ -1,5 +1,8 @@
 # time_log
 
+- 20160710  
+    - Refactoring on a new `Cent OS` based VM
+    - Bootable Problems has been found after first boot 
 - 20160709
     - Fix Problems of `v0.8-TC` to form `v0.8-re-TC`
     - A problem of Permission has been found in `v0.8-TC`, on repairing on reconfiguring.
