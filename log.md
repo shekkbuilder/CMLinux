@@ -1,6 +1,7 @@
 # time_log
 
 - 20160711      
+    - Starting to work on modifiying bootscripts
     - Working on comiling the functional packages
     - Checking the errors of `binutils` to find a result.
 - 20160710  
