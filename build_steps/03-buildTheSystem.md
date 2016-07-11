@@ -40,3 +40,8 @@ the files therein, thus exposing these files to possible malicious manipulation.
     PATH=/bin:/usr/bin:/sbin:/usr/sbin:/tools/bin \
     /tools/bin/bash --login +h
 ```
+
+- Then create a symbol link for the reference gcc:
+```bash
+     ln -sv /tools/lib/ld-linux.so.2 /lib/ld-linux.so.2
+```
