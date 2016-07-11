@@ -1,5 +1,8 @@
 # time_log
 
+- 20160711      
+    - Working on comiling the functional packages
+    - Checking the errors of `binutils` to find a result.
 - 20160710  
     - Refactoring on a new `Cent OS` based VM
     - Bootable Problems has been found after first boot 
