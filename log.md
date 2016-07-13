@@ -1,5 +1,10 @@
 # time_log
 
+- 20160713
+    - The project is hanging-up for my exam of ***RHCE*** in 20170711 at Beijing.
+    - Package up all files for the Project.
+- 20160712      
+    - Continue to cinfigure the boot scripts
 - 20160711      
     - Starting to configure the `shadow` package to protect the passwds.
     - Starting to work on modifiying bootscripts

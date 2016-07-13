@@ -17,9 +17,9 @@ Bash, Bc, Binutils, Coreutils, Diffutils, File, Findutils, Gawk, Grep, GTK+2, Gz
 So join us, and you will learn and build your Linux for your *VM*
 
 # Project Progress
-- 20160710
-    - Refactoring on a new `Cent OS` based VM
-    - Release the version 0.8-re-TC with the full Tool Chain for building your Linux.
+- 20160713
+    - The project is hanging-up for my exam of ***RHCE*** in 20170711 at Beijing.
+    - Package up all files for the Project.
 
 # Steps
 - Form all scripts for installing and integrating a tiny and strong Linux in ***localhost*** starting with the localhost Linux. Package them into a workable `toolchain`.
