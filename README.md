@@ -18,7 +18,7 @@ So join us, and you will learn and build your Linux for your *VM*
 
 # Project Progress
 - 20160713
-    - The project is hanging-up for my exam of ***RHCE*** in 20170711 at Beijing.
+    - The project is hanging-up for my exam of ***RHCE*** in 20170721 at Beijing.
     - Package up all files for the Project.
 
 # Steps
